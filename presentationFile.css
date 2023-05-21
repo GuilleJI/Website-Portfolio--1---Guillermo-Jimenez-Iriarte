@@ -34,6 +34,6 @@ h1{
 
 /* Add a color to the active/current link */ 
 .nav1 a.active {
-    background-color: #04AA6D;
+    background-color: #84dcc6;
     color: white; 
 } 
