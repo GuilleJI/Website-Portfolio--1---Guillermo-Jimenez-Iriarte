@@ -29,6 +29,6 @@ h1{
 /* Change the color o links on hover */ 
 .nav1 a:hover {
     background-color: #ddd;
-    color:black;
+    color:rgb(132, 118, 118);
 
 }
