@@ -8,3 +8,9 @@ h1{
     color: white;
     text-align: center;
 }
+
+/* Add a wheat background color to the top navigation*/
+.nav1{
+    background-color: wheat;
+    overflow: hidden;
+}
