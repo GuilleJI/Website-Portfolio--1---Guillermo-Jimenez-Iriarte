@@ -3,7 +3,7 @@
 body {
     background-color:lightcoral;
     font-family: Arial;
-    padding: 20px; 
+    padding: 25px; 
     
 }
 
@@ -80,16 +80,22 @@ body {
 /*==============================================================*/
 /*==============================================================*/
 
+
+
 /*Footer*/
 .footer {
 
     padding: 20px; 
     text-align: center; 
     margin-top: 20px;
-    background: wheat; 
+    background: wheat;
+    color: rgb(42, 33, 30); 
+    font-size: small;
 
 }
 
+
+/*===============================================================*/
 /*===============================================================*/
 
 /*Responsive layout- when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */ 
@@ -106,9 +112,10 @@ body {
         width: 100%;
     }
 }
-
+/*===============================================================*/
 /*=================================================================*/
 
+/* This created a unique box under the <div> section from class "myDiv". */
 .myDiv {
     border: 5px outset #f79256; 
     background-color: #84dcc6;
@@ -125,8 +132,8 @@ body {
     font-style: italic; 
     background-color:darkcyan;
     font-size: 12px;
-    text-align: left; 
-    
+    text-align: left;  
 }
+
 
 
