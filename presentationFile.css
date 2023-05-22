@@ -2,12 +2,18 @@
 
 body {
     background-color:lightcoral;
+    font-family: Arial;
+    padding: 20px; 
 }
 
 h1{
     color: white;
     text-align: center;
 }
+
+/*=============================================================*/
+/*Navigation Bar*/ 
+/*=============================================================*/
 
 /* Add a wheat background color to the top navigation*/
 .nav1{
@@ -37,3 +43,6 @@ h1{
     background-color: #84dcc6;
     color: white; 
 } 
+
+/*============================================================/*
+/*============================================================/*
