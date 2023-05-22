@@ -54,6 +54,7 @@ body {
 /*Column container */ 
 .row {
     display: flex; 
+    color: whitesmoke;
 }
 
 
